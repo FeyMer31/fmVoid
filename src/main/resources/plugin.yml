@@ -4,3 +4,5 @@ main: ru.feymer.fmvoid.FmVoid
 authors: [FeyMer]
 api-version: 1.13
 website: vk.com/feymer31
+commands:
+  fmv: {}
