@@ -1,3 +1,3 @@
-world: "spawn"
-y: 20
-command: "rtp safe %player%"
+world: "spawn" #Мир, в котором будет работать плагин
+y: 20 #Высота, при которой будет выполнена команда
+command: "rtp safe %player%" #Сама команда
