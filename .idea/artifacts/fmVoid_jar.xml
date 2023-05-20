@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="fmVoid:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/fmVoid_jar</output-path>
+    <root id="archive" name="fmVoid.jar">
+      <element id="module-output" name="fmVoid" />
+    </root>
+  </artifact>
+</component>

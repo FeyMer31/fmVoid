@@ -1,0 +1,5 @@
+name: fmVoid
+version: '${project.version}'
+main: ru.feymer.fmvoid.FmVoid
+authors: [FeyMer]
+website: vk.com/feymer31
